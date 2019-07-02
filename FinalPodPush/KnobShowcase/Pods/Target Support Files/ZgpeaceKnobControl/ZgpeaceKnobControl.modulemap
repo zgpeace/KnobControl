@@ -1,0 +1,6 @@
+framework module ZgpeaceKnobControl {
+  umbrella header "ZgpeaceKnobControl-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = "The knob control is a completely customizable widget that can be used in any iOS app. It also plays a little vitory fanfare"
 
-  s.homepage     = "https://github.com/zgpeace/KnobControl"
+  s.homepage     = "http://raywenderlish.com"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -77,8 +77,7 @@ Pod::Spec.new do |s|
   #  Specify the location from where the source should be retrieved.
   #  Supports git, hg, bzr, svn and HTTP.
   #
-
-  s.source       = { :git => 'https://github.com/zgpeace/KnobControl.git', :tag => '1.0.1' }
+  s.source       = { :path => '.' }
   # s.source       = { :git => "http://EXAMPLE/KnobControl.git", :tag => "#{s.version}" }
 
 

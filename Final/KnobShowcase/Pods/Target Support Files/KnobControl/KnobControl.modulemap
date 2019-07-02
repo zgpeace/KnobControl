@@ -1,0 +1,6 @@
+framework module KnobControl {
+  umbrella header "KnobControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
