@@ -27,7 +27,6 @@
 /// THE SOFTWARE.
 
 import UIKit
-//import KnobControl
 
 class ViewController: UIViewController {
   
